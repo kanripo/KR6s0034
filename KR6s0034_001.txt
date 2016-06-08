@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:07:59.518594
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:57
 #+TITLE: 印沙佛文
 #+PROPERTY: CBETA_ID T85n2842
 #+PROPERTY: ID KR6s0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2842
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0034_T_001-1295a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2842¶
-
- 印沙佛文¶
+No. 2842¶
+印沙佛文¶
 ¶
 
 仰啟蓮花藏界清淨法身。百億如來恒沙化¶
@@ -32,7 +31,7 @@ No.2842¶
 志懇。相鷲嶺而傾心。請佛迎僧。結淨壇於九¶
 地。六時轉念經聲動曉於合城。士庶誥天。鈴¶
 梵洪鳴於滿城。是時也太陽北照。凝凍相容。¶
-僧徒念誦以周圓。灌頂精誠已五日總斯多¶
+僧徒念誦以周圓。灌頂精誠巳五日總斯多¶
 善。無限朦因先用莊嚴。梵釋四王龍天八部。¶
 伏願威光轉盛。福力彌增興運慈悲。救人護¶
 國。當今聖主永坐皇城。十道爭馳赤心向國。¶
