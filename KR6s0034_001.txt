@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:07:59.518594
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:57
 #+TITLE: 印沙佛文
 #+PROPERTY: CBETA_ID T85n2842
 #+PROPERTY: ID KR6s0034
